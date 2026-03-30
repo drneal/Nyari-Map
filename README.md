@@ -2,6 +2,8 @@
 Nyari Estate Mapping from satellite imagery. Manual trace to create a tool for estate management purposes.
 Main file in this project is NyariEstateMaps.svg. Open and edit this file to make changes to the map.
 
+The map is a scalable vector graphics file containing 5 layers. The five layers are numbers, barriers, area labels, lines and bitmaps. The bitmaps on the are the underlying resource. Lines are the borders of the plots and the numbers layer contains the plot numbers. 
+
 ## Project Files
 
 ### Editable Source Files
